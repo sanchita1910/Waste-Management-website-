@@ -1,0 +1,2 @@
+# Waste-Management-website-
+The E-waste project has various functionalities and extends to various log-ins and further going to respective  modules for extracting the data or may be entering their own field information.So we have various modules  divided further: • Homepage  • Driver login  • Company Registration  • Van/Vehicle Registration  • E-commerce  The modules and further dynamic pages are not fixed yet, so various modules like feedback ,payments  These webpages are further connected to the database 
